@@ -2,7 +2,7 @@
 
 ---
 
-I enjoy data analysis, problem solving, and automation. I primarily code in Python, and I try to learn and apply something new every day.
+I'm a data science enthusiast and I love learning and applying skills in machine learning to tackle tough problems.
 
 <!---
 rparkr/rparkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
