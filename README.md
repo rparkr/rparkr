@@ -2,7 +2,7 @@
 
 ---
 
-I'm a data science enthusiast and I am energized by learning and applying skills in machine learning and data analysis.
+I'm a data science enthusiast and I enjoy machine learning, deep learning, and data analysis.
 
 <!---
 rparkr/rparkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
