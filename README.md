@@ -4,7 +4,7 @@
 
 ---
 
-I'm a machine learning practitioner. I enjoy everything about the field of artificial intelligence: experimenting, developing and tuning models, studying the latest research papers in ML, testing new ideas, and experiencing the "magic" of what can be accomplished with linear algebra, backpropagation, and lots of training data.
+I'm a machine learning developer. I enjoy everything about the field of artificial intelligence: experimenting, developing and tuning models, studying the latest research papers in ML, testing new ideas, and experiencing the "magic" of what can be accomplished with linear algebra, backpropagation, and lots of training data.
 
 If you're new here, check out my [ml-projects](https://github.com/rparkr/ml-projects) repo, which is my incubation space for ideas and projects. Most of my projects have detailed explanations of algorithms and mathematical operations and are structured to be easy to follow to encourage learning.
 
