@@ -6,7 +6,11 @@
 
 I'm a machine learning developer. I enjoy everything about the field of artificial intelligence: experimenting, developing and tuning models, tinkering with the latest software, learning from ML research, testing new ideas, and experiencing the "magic" of what can be accomplished with linear algebra, backpropagation, and lots of training data.
 
-If you're new here, check out my [ml-projects](https://github.com/rparkr/ml-projects) repo, which is my incubation space for ideas and projects. Most of my projects have detailed explanations of algorithms and mathematical operations and are structured to be easy to follow to encourage learning.
+You can find examples of my work in my repositories. Some recent things I've worked on include:
+- [an interactive Polars tutorial](https://github.com/rparkr/polars-intro) as a marimo notebook/app and a demo of analyzing the NYC Yellow Taxi dataset to show how fast Polars is (the dataset has ~30M records). The repo also includes dynamic, asynchronous data download and the combination of multiple data sources (hourly weather--JSON or CSV--weather codes--JSON--, and the the taxi trips data--Parquet)
+- [History Buff](https://github.com/rparkr/history-buff), a Python and CLI app for semantic search over browser history. (Currently a work in progress; I might also consider porting this to a Chrome extension)
+- [Baby Names, a Streamlit app for analyzing trends in first names over the past 100 years](https://github.com/rparkr/baby-names)
+- a collection of various [machine learning projects](https://github.com/rparkr/ml-projects), including key algorithms implemented from scratch in NumPy, along with detailed explanations of the algorithms and mathematical operations, structured to be easy to follow to encourage learning
 
 **Some examples of what I've worked on:**  
 | ML from scratch<br>Machine learning algorithms implemented in NumPy |
