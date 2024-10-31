@@ -4,7 +4,7 @@
 
 ---
 
-I'm a machine learning developer. I enjoy everything about the field of artificial intelligence: experimenting, developing and tuning models, tinkering with the latest software, learning from ML research, testing new ideas, and experiencing the "magic" of what can be accomplished with linear algebra, backpropagation, and lots of training data.
+I'm a machine learning developer and open-source contributor. I enjoy everything about the field of artificial intelligence: experimenting, developing and tuning models, tinkering with the latest software, learning from ML research, testing new ideas, and experiencing the "magic" of what can be accomplished with linear algebra, backpropagation, and lots of training data.
 
 You can find examples of my work in my repositories. Some recent things I've worked on include:
 - [an interactive Polars tutorial](https://github.com/rparkr/polars-intro) as a marimo notebook/app and a demo of analyzing the NYC Yellow Taxi dataset to show how fast Polars is (the dataset has ~30M records). The repo also includes dynamic, asynchronous data download and the combination of multiple data sources (hourly weather--JSON or CSV--weather codes--JSON--, and the the taxi trips data--Parquet)
