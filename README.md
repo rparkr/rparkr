@@ -1,6 +1,6 @@
-![Background photo with logos of Machine Learning and analytics software](backsplash_photo.png)
+![Background photo with the words: "Ryan Parker" stylized with design elements representing machine learning](backsplash_photo.png)
 
-# Hi, I'm Ryan!
+# Hi, I'm Ryan.
 
 ---
 
